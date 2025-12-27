@@ -3,7 +3,7 @@
 Proyek ini berisi perancangan basis data lengkap untuk sistem manajemen Coffee Shop, mencakup manajemen menu, transaksi pelanggan, hingga otomatisasi stok.
 
 ## 📊 Entity Relationship Diagram (ERD)
-![ERD](./docs/ERD%20COFFEESHOP.jpg)
+![ERD](./docs/ERDCOFFEESHOP.png)
 
 ## 🚀 Fitur Utama
 - **Otomatisasi Stok**: Menggunakan *Trigger* untuk update stok saat transaksi atau restock.
